@@ -45,6 +45,7 @@ The CSV file was imported into Tableau for visualization. After verifying the da
 This analysis highlights actionable insights and underscores the importance of data-driven decision-making in optimizing sales strategies and enhancing customer satisfaction.
 
 You can access the viz or dashboard via this [link](https://public.tableau.com/app/profile/chella.kamina/viz/LambaZambiaSales/Dashboard1#1).
-![dashboard](https://github.com/user-attachments/assets/6168aa55-1cac-4fbe-b7d2-680311ccea2e)
+![image](https://github.com/user-attachments/assets/30ea421a-7b0c-4926-9716-82c4fdecb545)
+
 
 
